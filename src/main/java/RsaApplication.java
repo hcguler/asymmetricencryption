@@ -5,7 +5,7 @@ import java.security.interfaces.RSAPublicKey;
 import java.util.Scanner;
 import javax.crypto.Cipher;
 
-public class Application {
+public class RsaApplication {
 
   public static final String RSA = "RSA";
 
